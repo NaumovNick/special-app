@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        int firstYear = 1922;
-        int lastYear = 2022;
+        int firstYear = 1944;
+        int lastYear = 2026;
 
 
         for (int year = firstYear; year <= lastYear; year = year + 1) {
